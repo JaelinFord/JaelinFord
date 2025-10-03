@@ -1,4 +1,4 @@
-# Jaelin Ford
+# 🙂 Jaelin Ford
 
 **`Wannabee Polymath`**
 
@@ -6,7 +6,7 @@
 
 ---
 
-### Languages and Tools
+### 🧰 Languages and Tools
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
@@ -18,7 +18,7 @@
 
 #
 
-### Stats
+### 📊 Stats
 
 ![Jaelin's Github stats](https://github-readme-stats.vercel.app/api?username=JaelinFord&theme=transparent&show_icons=true)
 
