@@ -1,6 +1,6 @@
 # Jaelin Ford
 
-**'Free form Creative'**
+**`Wannabee Polymath`**
 
 {descrition}
 
