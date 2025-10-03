@@ -26,3 +26,9 @@
 
 ![Jaelin's Github stats](https://github-readme-stats.vercel.app/api?username=JaelinFord&theme=transparent&show_icons=true)
 
+#
+
+<details>
+  <summary><h3>🔭 Jaelin's Coding Journey</h3></summary>
+  {TBA}
+</details>
