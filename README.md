@@ -20,5 +20,5 @@
 
 ### Stats
 
-![Jaelin's Github stats](https://github-readme-stats.vercel.app/api?username=JaelinFord&theme=dark&show_icons=true)
+![Jaelin's Github stats](https://github-readme-stats.vercel.app/api?username=JaelinFord&theme=transparent&show_icons=true)
 
